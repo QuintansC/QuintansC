@@ -1,6 +1,6 @@
 ### Olá pessoal, Sejam Bem vindos ao meu perfil 👋
 
-Me chamo Gustavo dos Santos Quintans, Estou entrando no mundo da programação em Javascript, Espero que meus projetos possam ajudar alguem!
+Me chamo Gustavo dos Santos Quintans, Estou entrando no mundo da programação em Javascript, Espero que meus projetos possam ajudar alguem ou que vocês possam me ajudar! 
 <!--
 **QuintansC/QuintansC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=QuintansC&hide=stars&show_icons=true&theme=material-palenight&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api?username=QuintansC&hide=stars&show_icons=true&theme=material-palenight&line_height=40">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintansC&count_private=true&theme=material-palenight">
 
 </p>
