@@ -2,7 +2,7 @@
 
 Me chamo Gustavo dos Santos Quintans, Estou entrando no mundo da programação em Javascript, Espero que meus projetos possam ajudar alguem ou que vocês possam me ajudar! 
 
-**Linguagens e pagamentos:**
+**Linguagens e ferramentas:**
 
 <p align="center">
 
