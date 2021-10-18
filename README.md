@@ -19,8 +19,6 @@ Me chamo Gustavo dos Santos Quintans, Estou entrando no mundo da programação e
     <img alt="NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img alt="Typescript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img alt="Php" src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
     <img alt="MySQL" src="https://img.icons8.com/ios-filled/48/4a90e2/mysql-logo.png"/>
 
   </div>
