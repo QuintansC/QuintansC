@@ -18,10 +18,9 @@ Me chamo Gustavo dos Santos Quintans, Estou entrando no mundo da programação e
     <img alt="React | React Native" src="https://img.icons8.com/color/48/000000/react-native.png" />
     <img alt="NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img alt="Typescript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+    <img alt="Vtex" height="48"  src="https://files.readme.io/096a0df-logo.2f3fc60b.svg"/>
     <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img alt="MySQL" src="https://img.icons8.com/ios-filled/48/4a90e2/mysql-logo.png"/>
-    <img alt="Vtex" height="48"  src="https://files.readme.io/096a0df-logo.2f3fc60b.svg"/>
-
   </div>
 </p>
 
