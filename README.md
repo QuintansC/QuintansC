@@ -28,11 +28,10 @@ Me chamo Gustavo dos Santos Quintans, Estou entrando no mundo da programação e
 
 **Status do Meu Github:**
 
-<p style="display: flex; flex-direction: row; justify-content: space-evenly">
+<p align="center">
   
   <img height="250" src="https://github-readme-stats.vercel.app/api?username=QuintansC&hide=stars&show_icons=true&theme=dark&line_height=40">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=stars&show_icons=true&theme=dark&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintansC&count_private=true&theme=dark&line_height=40"">
 
 </p>
 
