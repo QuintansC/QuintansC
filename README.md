@@ -1,8 +1,8 @@
-### Olá pessoal, Sejam Bem vindos ao meu perfil 👋
+#### Olá Mundo, Sejam Bem vindos ao meu perfil, meu nome é Gustavo Quintans, sou desenvolvedor Javascript e Typescript 👋
 
-Me chamo Gustavo dos Santos Quintans, Estou entrando no mundo da programação em Javascript, Espero que meus projetos possam ajudar alguem ou que vocês possam me ajudar! 
+ Hello World, You're welcome to my profile. my name is Gustavo Quintans, I'm Javascript and Typescript Developer. 👋
 
-**Linguagens e ferramentas:**
+**Languages and Tools:**
 
 <p align="center">
 
@@ -26,7 +26,7 @@ Me chamo Gustavo dos Santos Quintans, Estou entrando no mundo da programação e
 
 ---
 
-**Status do Meu Github:**
+**My Github status:**
 
 <p align="center">
   
