@@ -20,7 +20,6 @@
     <img alt="Typescript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img alt="Vtex" height="48"  src="https://files.readme.io/096a0df-logo.2f3fc60b.svg"/>
     <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <img alt="MySQL" src="https://img.icons8.com/ios-filled/48/4a90e2/mysql-logo.png"/>
   </div>
 </p>
 
