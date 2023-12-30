@@ -1,6 +1,6 @@
-#### Olá Mundo, Sejam Bem vindos ao meu perfil, meu nome é Gustavo Quintans, sou desenvolvedor Javascript e Typescript 👋
+#### Hello World!! 👋
 
- Hello World, You're welcome to my profile. my name is Gustavo Quintans, I'm Javascript and Typescript Developer. 👋
+Bem-vindos ao meu repositório no GitHub! Meu nome é Gustavo Quintans, e aqui você encontrará uma coleção dinâmica e diversificada de projetos que refletem meu comprometimento com a inovação, desenvolvimento de software e paixão pela resolução de problemas. Como desenvolvedor apaixonado, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para criar soluções eficientes e elegantes.
 
 **Languages and Tools:**
 
