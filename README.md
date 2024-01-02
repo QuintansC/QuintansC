@@ -2,7 +2,7 @@
 
 Bem-vindos ao meu repositório no GitHub! Meu nome é Gustavo Quintans, e aqui você encontrará uma coleção dinâmica e diversificada de projetos que refletem meu comprometimento com a inovação, desenvolvimento de software e paixão pela resolução de problemas. Como desenvolvedor apaixonado, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para criar soluções eficientes e elegantes.
 
-** Destaques **
+**Destaques**
 
 Projetos
 
