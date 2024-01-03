@@ -5,7 +5,7 @@ Bem-vindos ao meu repositório no GitHub! Meu nome é Gustavo Quintans, e aqui v
 **Projetos em Destaques:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quintansc&repo=drag-and-drop)](https://github.com/quintansc/drag-and-drop)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quintansc&repo=api-simples)](https://github.com/quintansc/api-simples)
 
 **Languages and Tools:**
 
