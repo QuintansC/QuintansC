@@ -6,6 +6,9 @@ Bem-vindos ao meu repositório no GitHub! Meu nome é Gustavo Quintans, e aqui v
 
 Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quintansc&repo=drag-and-drop)](https://github.com/quintansc/drag-and-drop)
+
+
 **Languages and Tools:**
 
 <p align="center">
