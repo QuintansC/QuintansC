@@ -7,6 +7,12 @@ Bem-vindos ao meu repositório no GitHub! Meu nome é Gustavo Quintans, e aqui v
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quintansc&repo=drag-and-drop)](https://github.com/quintansc/drag-and-drop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quintansc&repo=api-simples)](https://github.com/quintansc/api-simples)
 
+**Sobre mim:**
+
+Minha participação na equipe Alto Tietê Robotics na OBR(Olimpíada brasileira de Robótica), chegamos até o campeonato brasileiro no Rio grande do Sul em 2019, recebendo algumas premiações como o robô mais inovador, nessa experiência tive contato com a Linguagem C++ e a Modelagem 3D, utilizando Arduino e esp32(microcontrolador).
+
+No momento estou focado no Front-end (Javascript, Typescript), atuando diretamente no mercado á 4 anos (quatro anos) . Sempre buscando mais conhecimento em desenvolvimento de software como um todo (Front-End e Back-End).
+
 **Languages and Tools:**
 
 <p align="center">
