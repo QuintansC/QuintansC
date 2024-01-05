@@ -2,12 +2,12 @@
 
 Bem-vindos ao meu repositório no GitHub! Meu nome é Gustavo Quintans, e aqui você encontrará uma coleção dinâmica e diversificada de projetos que refletem meu comprometimento com a inovação, desenvolvimento de software e paixão pela resolução de problemas. Como desenvolvedor apaixonado, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para criar soluções eficientes e elegantes.
 
-**Projetos em Destaques:**
+**Featured Projects:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quintansc&repo=drag-and-drop)](https://github.com/quintansc/drag-and-drop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quintansc&repo=api-simples)](https://github.com/quintansc/api-simples)
 
-**Sobre mim:**
+**About me:**
 
 Minha participação na equipe Alto Tietê Robotics na OBR(Olimpíada brasileira de Robótica), chegamos até o campeonato brasileiro no Rio grande do Sul em 2019, recebendo algumas premiações como o robô mais inovador, nessa experiência tive contato com a Linguagem C++ e a Modelagem 3D, utilizando Arduino e esp32(microcontrolador).
 
