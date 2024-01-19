@@ -18,6 +18,8 @@ No momento estou focado no Front-end (Javascript, Typescript), atuando diretamen
 
 **Languages and Tools:**
 
+- Sistema utilizado: Linux Debian 12
+
 <p align="center">
 
   <div align="center">
