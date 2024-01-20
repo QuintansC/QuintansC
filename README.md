@@ -19,6 +19,7 @@ No momento estou focado no Front-end (Javascript, Typescript), atuando diretamen
 **Languages and Tools:**
 
 - Sistema utilizado: Linux Debian 12
+- Sistema utilizado: Windows 11
 
 <p align="center">
 
