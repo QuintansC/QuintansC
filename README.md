@@ -25,7 +25,7 @@
 ---
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Minhas redes:</h3>
 
 <div>
   <a href="https://instagram.com/quintansdev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
