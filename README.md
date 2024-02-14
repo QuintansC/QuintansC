@@ -9,8 +9,8 @@
 </div>
 
 <div dir="auto">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=QuintansC&hide=stars&show_icons=true&theme=dark&line_height=40">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintansC&count_private=true&theme=dark&line_height=40"">
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=QuintansC&show_icons=true&theme=merko&line_height=40">
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintansC&count_private=true&theme=merko&line_height=40"">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
