@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm QuintansC</h1>
-<h4 dir="auto">Desenvolvedor FullStack(Front-End e Back-End)-(Javascript, Typescript), atuando á 4 anos. Sempre buscando mais conhecimento em desenvolvimento de software como um todo.</h4>
+<h4 dir="auto">Desenvolvedor FullStack(Front-End e Back-End)-(Javascript, Typescript), atuando á 4 anos. Sou apaixonado por tecnologia e Musica, gosto de jogar jogos e particularmente essa foi uma das minhas maiores motivações a entrar no mundo da tecnologia!</h4>
 
 
 <div align="left">
