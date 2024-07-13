@@ -1,4 +1,7 @@
-#### Hello World!! 👋
+<p>
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=QuintansC&hide=stars&show_icons=true&theme=dark&line_height=40">
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintansC&count_private=true&theme=dark&line_height=40"">
+</p>
 
 Bem-vindos ao meu repositório no GitHub! Meu nome é Gustavo Quintans, e aqui você encontrará uma coleção dinâmica e diversificada de projetos que refletem meu comprometimento com a inovação, desenvolvimento de software e paixão pela resolução de problemas. Como desenvolvedor apaixonado, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para criar soluções eficientes e elegantes.
 
@@ -35,14 +38,7 @@ No momento estou focado no Front-end (Javascript, Typescript), atuando diretamen
 
 ---
 
-**My Github status:**
 
-<p align="center">
-  
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=QuintansC&hide=stars&show_icons=true&theme=dark&line_height=40">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintansC&count_private=true&theme=dark&line_height=40"">
-
-</p>
 
 
 <div align="right">
