@@ -3,19 +3,11 @@
   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintansC&count_private=true&theme=dark&line_height=40"">
 </p>
 
-Bem-vindos ao meu repositório no GitHub! Meu nome é Gustavo Quintans, e aqui você encontrará uma coleção dinâmica e diversificada de projetos que refletem meu comprometimento com a inovação, desenvolvimento de software e paixão pela resolução de problemas. Como desenvolvedor apaixonado, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para criar soluções eficientes e elegantes.
-
-**About me:**
-
-Minha participação na equipe Alto Tietê Robotics na OBR(Olimpíada brasileira de Robótica), chegamos até o campeonato brasileiro no Rio grande do Sul em 2019, recebendo algumas premiações como o robô mais inovador, nessa experiência tive contato com a Linguagem C++ e a Modelagem 3D, utilizando Arduino e esp32(microcontrolador).
-
-No momento estou focado no Front-end (Javascript, Typescript), atuando diretamente no mercado á 4 anos (quatro anos) . Sempre buscando mais conhecimento em desenvolvimento de software como um todo (Front-End e Back-End).
+Desenvolvedor FullStack(Front-End e Back-End)-(Javascript, Typescript), atuando diretamente no mercado á 4 anos (quatro anos). Sempre buscando mais conhecimento em desenvolvimento de software como um todo.
 
 **Languages and Tools:**
 
-- Sistema utilizado: Linux Debian 12
-- Sistema utilizado: Windows 11
-- Sistema utilizado: Linux Manjaro
+--- Linux Debian 12, Windows 11, Linux Fedora, Linux Manjaro ---
 
 <p align="center">
 
