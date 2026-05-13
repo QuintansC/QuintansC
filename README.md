@@ -14,7 +14,7 @@ and business-oriented solutions.
 
 ### 👨‍💻 About me
 
-- 💼 Full Stack Software Engineer with 5 years of professional experience  
+- 💼 Full Stack Software Engineer with 6 years of professional experience  
 - 🎯 Front-end specialist with strong Back-end knowledge  
 - 🧠 Strong focus on clean architecture, code quality and scalability  
 - ⚙️ Experience with APIs, databases, cloud services and CI/CD pipelines  
